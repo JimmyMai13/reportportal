@@ -1,0 +1,163 @@
+2020-06-30 14:35:37.593 UTC [34014] LOG:  invalid value for parameter "lc_messages": "en_US.utf8"
+2020-06-30 14:35:37.593 UTC [34014] LOG:  invalid value for parameter "lc_monetary": "en_US.utf8"
+2020-06-30 14:35:37.593 UTC [34014] LOG:  invalid value for parameter "lc_numeric": "en_US.utf8"
+2020-06-30 14:35:37.593 UTC [34014] LOG:  invalid value for parameter "lc_time": "en_US.utf8"
+2020-06-30 14:35:37.593 UTC [34014] FATAL:  configuration file "/Users/jimmymai/Documents/CallRail/qa/helpers/reportportal/data/postgres/postgresql.conf" contains errors
+2020-06-30 14:35:42.490 UTC [34020] LOG:  invalid value for parameter "lc_messages": "en_US.utf8"
+2020-06-30 14:35:42.490 UTC [34020] LOG:  invalid value for parameter "lc_monetary": "en_US.utf8"
+2020-06-30 14:35:42.490 UTC [34020] LOG:  invalid value for parameter "lc_numeric": "en_US.utf8"
+2020-06-30 14:35:42.490 UTC [34020] LOG:  invalid value for parameter "lc_time": "en_US.utf8"
+2020-06-30 14:35:42.490 UTC [34020] FATAL:  configuration file "/Users/jimmymai/Documents/CallRail/qa/helpers/reportportal/data/postgres/postgresql.conf" contains errors
+2020-06-30 14:37:14.142 UTC [34041] LOG:  invalid value for parameter "lc_messages": "en_US.utf8"
+2020-06-30 14:37:14.142 UTC [34041] LOG:  invalid value for parameter "lc_monetary": "en_US.utf8"
+2020-06-30 14:37:14.142 UTC [34041] LOG:  invalid value for parameter "lc_numeric": "en_US.utf8"
+2020-06-30 14:37:14.142 UTC [34041] LOG:  invalid value for parameter "lc_time": "en_US.utf8"
+2020-06-30 14:37:14.142 UTC [34041] FATAL:  configuration file "/Users/jimmymai/Documents/CallRail/qa/helpers/reportportal/data/postgres/postgresql.conf" contains errors
+2020-06-30 14:37:18.990 UTC [34044] LOG:  invalid value for parameter "lc_messages": "en_US.utf8"
+2020-06-30 14:37:18.990 UTC [34044] LOG:  invalid value for parameter "lc_monetary": "en_US.utf8"
+2020-06-30 14:37:18.990 UTC [34044] LOG:  invalid value for parameter "lc_numeric": "en_US.utf8"
+2020-06-30 14:37:18.990 UTC [34044] LOG:  invalid value for parameter "lc_time": "en_US.utf8"
+2020-06-30 14:37:18.990 UTC [34044] FATAL:  configuration file "/Users/jimmymai/Documents/CallRail/qa/helpers/reportportal/data/postgres/postgresql.conf" contains errors
+2020-07-06 21:29:45.243 UTC [53505] LOG:  invalid value for parameter "lc_messages": "en_US.utf8"
+2020-07-06 21:29:45.243 UTC [53505] LOG:  invalid value for parameter "lc_monetary": "en_US.utf8"
+2020-07-06 21:29:45.243 UTC [53505] LOG:  invalid value for parameter "lc_numeric": "en_US.utf8"
+2020-07-06 21:29:45.243 UTC [53505] LOG:  invalid value for parameter "lc_time": "en_US.utf8"
+2020-07-06 21:29:45.243 UTC [53505] FATAL:  configuration file "/Users/jimmymai/Documents/CallRail/qa/helpers/reportportal/data/postgres/postgresql.conf" contains errors
+2020-07-06 21:29:47.956 UTC [53508] LOG:  invalid value for parameter "lc_messages": "en_US.utf8"
+2020-07-06 21:29:47.956 UTC [53508] LOG:  invalid value for parameter "lc_monetary": "en_US.utf8"
+2020-07-06 21:29:47.956 UTC [53508] LOG:  invalid value for parameter "lc_numeric": "en_US.utf8"
+2020-07-06 21:29:47.956 UTC [53508] LOG:  invalid value for parameter "lc_time": "en_US.utf8"
+2020-07-06 21:29:47.956 UTC [53508] FATAL:  configuration file "/Users/jimmymai/Documents/CallRail/qa/helpers/reportportal/data/postgres/postgresql.conf" contains errors
+2020-07-06 21:31:26.580 GMT [53527] LOG:  syntax error in file "/Users/jimmymai/Documents/CallRail/qa/helpers/reportportal/data/postgres/postgresql.conf" line 752, near token "-"
+2020-07-06 21:31:26.580 GMT [53527] FATAL:  configuration file "/Users/jimmymai/Documents/CallRail/qa/helpers/reportportal/data/postgres/postgresql.conf" contains errors
+2020-07-06 21:32:13.867 GMT [53534] LOG:  syntax error in file "/Users/jimmymai/Documents/CallRail/qa/helpers/reportportal/data/postgres/postgresql.conf" line 665, near token ";"
+2020-07-06 21:32:13.867 GMT [53534] LOG:  syntax error in file "/Users/jimmymai/Documents/CallRail/qa/helpers/reportportal/data/postgres/postgresql.conf" line 666, near token ";"
+2020-07-06 21:32:13.867 GMT [53534] LOG:  syntax error in file "/Users/jimmymai/Documents/CallRail/qa/helpers/reportportal/data/postgres/postgresql.conf" line 667, near token ";"
+2020-07-06 21:32:13.867 GMT [53534] LOG:  syntax error in file "/Users/jimmymai/Documents/CallRail/qa/helpers/reportportal/data/postgres/postgresql.conf" line 668, near token ";"
+2020-07-06 21:32:13.867 GMT [53534] LOG:  syntax error in file "/Users/jimmymai/Documents/CallRail/qa/helpers/reportportal/data/postgres/postgresql.conf" line 669, near token ";"
+2020-07-06 21:32:13.867 GMT [53534] FATAL:  configuration file "/Users/jimmymai/Documents/CallRail/qa/helpers/reportportal/data/postgres/postgresql.conf" contains errors
+2020-07-06 21:32:39.110 UTC [53540] LOG:  starting PostgreSQL 12.3 on x86_64-apple-darwin16.7.0, compiled by Apple LLVM version 8.1.0 (clang-802.0.42), 64-bit
+2020-07-06 21:32:39.117 UTC [53540] LOG:  listening on IPv6 address "::", port 5432
+2020-07-06 21:32:39.117 UTC [53540] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+2020-07-06 21:32:39.120 UTC [53540] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2020-07-06 21:32:39.157 UTC [53541] LOG:  database system was shut down at 2020-07-06 21:29:41 UTC
+2020-07-06 21:32:39.169 UTC [53540] LOG:  database system is ready to accept connections
+2020-07-06 21:32:39.269 UTC [53548] FATAL:  role "jimmymai" does not exist
+2020-07-06 21:32:46.944 UTC [53549] FATAL:  role "jimmymai" does not exist
+2020-07-06 21:33:09.366 UTC [53550] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:33:09.366 UTC [53550] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:33:09.366 UTC [53550] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:33:39.400 UTC [53554] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:33:39.400 UTC [53554] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:33:39.400 UTC [53554] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:34:03.706 UTC [53557] FATAL:  role "jimmymai" does not exist
+2020-07-06 21:34:08.985 UTC [53559] FATAL:  role "jimmymai" does not exist
+2020-07-06 21:34:09.314 UTC [53560] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:34:09.314 UTC [53560] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:34:09.314 UTC [53560] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:34:39.213 UTC [53563] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:34:39.213 UTC [53563] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:34:39.213 UTC [53563] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:35:06.877 UTC [53566] FATAL:  database "rpuser" does not exist
+2020-07-06 21:35:09.410 UTC [53567] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:35:09.410 UTC [53567] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:35:09.410 UTC [53567] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:35:39.212 UTC [53572] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:35:39.212 UTC [53572] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:35:39.212 UTC [53572] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:35:59.225 UTC [53574] FATAL:  role "jimmymai" does not exist
+2020-07-06 21:36:09.501 UTC [53575] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:36:09.501 UTC [53575] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:36:09.501 UTC [53575] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:36:17.858 UTC [53577] FATAL:  role "jimmymai" does not exist
+2020-07-06 21:36:21.390 UTC [53579] FATAL:  role "user" does not exist
+2020-07-06 21:36:39.307 UTC [53583] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:36:39.307 UTC [53583] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:36:39.307 UTC [53583] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:36:48.137 UTC [53585] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:36:48.137 UTC [53585] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:36:48.137 UTC [53585] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:36:51.969 UTC [53587] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:36:51.969 UTC [53587] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:36:51.969 UTC [53587] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:36:55.755 UTC [53589] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:36:55.755 UTC [53589] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:36:55.755 UTC [53589] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:37:09.500 UTC [53591] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:37:09.500 UTC [53591] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:37:09.500 UTC [53591] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:37:39.308 UTC [53600] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:37:39.308 UTC [53600] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:37:39.308 UTC [53600] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:38:00.501 UTC [53605] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:38:00.501 UTC [53605] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:38:00.501 UTC [53605] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:38:02.505 UTC [53607] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:38:02.505 UTC [53607] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:38:02.505 UTC [53607] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:38:09.500 UTC [53611] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:38:09.500 UTC [53611] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:38:09.500 UTC [53611] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:38:39.364 UTC [53653] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:38:39.364 UTC [53653] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:38:39.364 UTC [53653] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:38:49.121 UTC [53655] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:38:49.121 UTC [53655] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:38:49.121 UTC [53655] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:39:02.907 UTC [53659] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:39:02.907 UTC [53659] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:39:02.907 UTC [53659] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:39:04.486 UTC [53661] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:39:04.486 UTC [53661] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:39:04.486 UTC [53661] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:39:09.501 UTC [53662] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:39:09.501 UTC [53662] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:39:09.501 UTC [53662] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:39:14.565 UTC [53663] FATAL:  role "jimmymai" does not exist
+2020-07-06 21:39:27.513 UTC [53664] FATAL:  role "jimmymai" does not exist
+2020-07-06 21:39:39.321 UTC [53665] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:39:39.321 UTC [53665] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:39:39.321 UTC [53665] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:40:09.584 UTC [53672] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:40:09.584 UTC [53672] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:40:09.584 UTC [53672] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:40:32.915 UTC [53678] FATAL:  role "jimmymai" does not exist
+2020-07-06 21:40:39.314 UTC [53683] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:40:39.314 UTC [53683] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:40:39.314 UTC [53683] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:40:58.679 UTC [53686] FATAL:  role "postgres" does not exist
+2020-07-06 21:40:59.999 UTC [53688] FATAL:  role "postgres" does not exist
+2020-07-06 21:41:05.268 UTC [53690] FATAL:  database "...." does not exist
+2020-07-06 21:41:09.506 UTC [53691] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:41:09.506 UTC [53691] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:41:09.506 UTC [53691] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:41:39.318 UTC [53699] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:41:39.318 UTC [53699] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:41:39.318 UTC [53699] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:41:56.415 UTC [53703] FATAL:  database "rpuser" does not exist
+2020-07-06 21:42:09.508 UTC [53705] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:42:09.508 UTC [53705] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:42:09.508 UTC [53705] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:42:39.396 UTC [53709] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:42:39.396 UTC [53709] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:42:39.396 UTC [53709] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:43:01.414 UTC [53717] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:43:01.414 UTC [53717] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:43:01.414 UTC [53717] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:43:03.718 UTC [53719] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:43:03.718 UTC [53719] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:43:03.718 UTC [53719] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:43:09.503 UTC [53720] FATAL:  database locale is incompatible with operating system
+2020-07-06 21:43:09.503 UTC [53720] DETAIL:  The database was initialized with LC_COLLATE "en_US.utf8",  which is not recognized by setlocale().
+2020-07-06 21:43:09.503 UTC [53720] HINT:  Recreate the database with another locale or install the missing locale.
+2020-07-06 21:43:11.650 UTC [53721] FATAL:  role "jimmymai" does not exist
+2020-07-06 21:43:12.841 UTC [53540] LOG:  received fast shutdown request
+2020-07-06 21:43:12.841 UTC [53540] LOG:  aborting any active transactions
+2020-07-06 21:43:12.842 UTC [53540] LOG:  background worker "logical replication launcher" (PID 53547) exited with exit code 1
+2020-07-06 21:43:12.842 UTC [53542] LOG:  shutting down
+2020-07-06 21:43:12.867 UTC [53540] LOG:  database system is shut down
+2020-07-06 21:43:13.718 UTC [53725] LOG:  invalid value for parameter "lc_messages": "en_US.utf8"
+2020-07-06 21:43:13.718 UTC [53725] LOG:  invalid value for parameter "lc_monetary": "en_US.utf8"
+2020-07-06 21:43:13.718 UTC [53725] LOG:  invalid value for parameter "lc_numeric": "en_US.utf8"
+2020-07-06 21:43:13.718 UTC [53725] LOG:  invalid value for parameter "lc_time": "en_US.utf8"
+2020-07-06 21:43:13.718 UTC [53725] FATAL:  configuration file "/Users/jimmymai/Documents/CallRail/qa/helpers/reportportal/data/postgres/postgresql.conf" contains errors
